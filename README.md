@@ -1,4 +1,4 @@
 # Aulis
 Aulis - troubleshooter helper demo version
-Aulis UI is in English and in Finnish
+Aulis is a Java based program for troubleshooting help.
 Java 8 GUI
